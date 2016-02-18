@@ -4,7 +4,7 @@ Through the partnership of AltaPay and NetSuite, we have made it much easier for
 you have to do is to install the bundle, which will only take a few minutes to complete. 
 
 ## Supported functionalities
-![skaermbillede 2016-02-18 kl 17 46 17](https://cloud.githubusercontent.com/assets/17084032/13150831/bd946622-d667-11e5-8038-ccc1d9ac71db.png)
+![skaermbillede 2016-02-18 kl 17 57 39](https://cloud.githubusercontent.com/assets/17084032/13151379/2a0b1a4c-d66a-11e5-8d5d-1ab507e2878d.png)
 
 ## Contact
 Feel free to contact our support team (support@altapay.com) if you need any assistance.
